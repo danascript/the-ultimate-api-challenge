@@ -13,6 +13,7 @@ To learn more about the challenge itself, visit [the about page](www.theultimate
 Links to the starter files of all currently published challenges
 
 1. [Yes/No](https://github.com/danascript/the-ultimate-api-challenge-yes-no)
+2. [Dad Jokes](https://github.com/danascript/the-ultimate-api-challenge-dad-jokes)
 
 
 ---
