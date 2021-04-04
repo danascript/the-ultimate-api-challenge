@@ -14,6 +14,7 @@ Links to the starter files of all currently published challenges
 
 1. [Yes/No](https://github.com/danascript/the-ultimate-api-challenge-yes-no)
 2. [Dad Jokes](https://github.com/danascript/the-ultimate-api-challenge-dad-jokes)
+3. [Weather App](https://github.com/danascript/the-ultimate-api-challenge-weather)
 
 
 ---
