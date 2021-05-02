@@ -16,6 +16,7 @@ Links to the starter files of all currently published challenges
 2. [Dad Jokes](https://github.com/danascript/the-ultimate-api-challenge-dad-jokes)
 3. [Weather App](https://github.com/danascript/the-ultimate-api-challenge-weather)
 4. [Lyrics Search Engine](https://github.com/danascript/the-ultimate-api-challenge-lyrics)
+5. [Wikipedia Search Page](https://github.com/danascript/the-ultimate-api-challenge-wikipedia)
 
 
 ---
