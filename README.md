@@ -17,6 +17,7 @@ Links to the starter files of all currently published challenges
 3. [Weather App](https://github.com/danascript/the-ultimate-api-challenge-weather)
 4. [Lyrics Search Engine](https://github.com/danascript/the-ultimate-api-challenge-lyrics)
 5. [Wikipedia Search Page](https://github.com/danascript/the-ultimate-api-challenge-wikipedia)
+6. [XKCD Comics UI](https://github.com/danascript/the-ultimate-api-challenge-xkcd)
 
 
 ---
