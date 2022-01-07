@@ -20,6 +20,7 @@ Links to the starter files of all currently published challenges
 6. [XKCD Comics UI](https://github.com/danascript/the-ultimate-api-challenge-xkcd)
 7. [SpaceX Website](https://github.com/danascript/the-ultimate-api-challenge-spacex)
 8. [ReactJS Weather App](https://github.com/danascript/the-ultimate-api-challenge-weather-react)
+9. [Memory Game](https://github.com/danascript/the-ultimate-api-challenge-memory-game)
 
 
 ---
