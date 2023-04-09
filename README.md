@@ -6,7 +6,7 @@ Looking for cool api projects ideas for beginners? Want to build your portfolio 
 
 The Ultimate API Challenge is the perfect place to work with a variety of tech stack, of ways to communicate with APIs as well as create projects to include in your portfolio.
 
-To learn more about the challenge itself, visit [the about page](https://www.theultimateapichallenge.com/about)
+To learn more about the challenge itself, visit [the about page](https://theultimateapichallenge.com/about)
 
 
 ## Links
